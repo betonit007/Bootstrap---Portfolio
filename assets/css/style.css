@@ -57,10 +57,12 @@ a {
     margin: 55% 0 0 0;
     width: 100%;
     border-style: ridge;
-   
-    
 }
 
+.card {
+    margin-bottom: 5px;
+}
+ 
 /*Below is old CSS from previous assingment*/
 
 
@@ -76,15 +78,18 @@ h3 {
     padding-top: 20px;
 }
 
-.hr:hover {
-    -ms-transform: rotate(-10deg);
-    -webkit-transform: rotate(-10deg);
-    -moz-transform: rotate(-10deg);
-    -o-transform: rotate(-10deg);
-    transform: rotate(-10deg);
-}
 
 a:hover {
     color: #4aaaa5;
     font-style: italic;
+}
+
+
+.links:hover {
+    font-style: italic;
+    color: white;
+}
+
+.links {
+    color: White;
 }
