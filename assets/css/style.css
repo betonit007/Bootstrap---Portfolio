@@ -4,7 +4,7 @@
 
     height: 75px;
     padding-top: 15px;
-    background-color: #294457;
+    background-color: #2A325C;
     text-align: center;
     font-size: 150%;
     font-family: 'Georgia', Times, Times New Roman, serif;
@@ -28,7 +28,7 @@ body {
 }
 
 a {
-    color: #B1B4C1;
+    color: #2A325C;
     text-decoration: none;
 }
 
@@ -38,11 +38,11 @@ a {
 
 #greyfooter {
     
-    background-color: #666666;
+    background-color: lightgrey;
 }
 
 #tealfooter {
-    background-color: #4aaaa5;
+    background-color: #2A325C;
     margin-bottom: 50px;
 
 }
@@ -54,7 +54,7 @@ a {
 .card-text {
     color: white;
     text-align: center;
-    background-color: #4aaaa5;
+    background-color: #2A325C;
     margin: 55% 0 0 0;
     width: 100%;
     border-style: ridge;
@@ -74,14 +74,14 @@ p, label {
 
 
 h3 {
-    color: #4aaaa5;
+    color: #2A325C;
     font-size: 135%;
     padding-top: 20px;
 }
 
 
 a:hover {
-    color: #4aaaa5;
+    color: darkgrey;
     font-style: italic;
 }
 
@@ -92,5 +92,5 @@ a:hover {
 }
 
 .links {
-    color: White;
+    color: white;
 }
